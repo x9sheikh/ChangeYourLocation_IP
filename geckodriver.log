@@ -1,0 +1,986 @@
+1563696302402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SIbASqAa4saO"
+1563696303194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563696303195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563696303195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563696305912	Marionette	INFO	Listening on port 36519
+1563696305948	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1563696494699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HNDcz11xoFmF"
+1563696495485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563696495486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563696495486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563696498268	Marionette	INFO	Listening on port 40037
+1563696498313	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563696523527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iOBSGwuNiVjl"
+1563696524274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563696524274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563696524274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563696526960	Marionette	INFO	Listening on port 36367
+1563696527041	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gdk-Message: 13:08:52.845: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+Gdk-Message: 13:08:52.845: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+Gdk-Message: 13:08:52.846: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+Gdk-Message: 13:08:52.846: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+1563696583911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DuaGfxfhAeVQ"
+1563696584763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563696584764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563696584764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563696587533	Marionette	INFO	Listening on port 41181
+1563696587629	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gdk-Message: 13:09:51.150: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1563696697172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Pibey5jNxRzG"
+1563696697960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563696697961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563696697961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563696700787	Marionette	INFO	Listening on port 35813
+1563696700885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563696705751	Marionette	INFO	Stopped listening on port 35813
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 14304, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1563696751115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xX2tgDgvWVLF"
+1563696751883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563696751883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563696751883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563696754693	Marionette	INFO	Listening on port 36589
+1563696754728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563696762054	Marionette	INFO	Stopped listening on port 36589
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14632, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 14632, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1563696809836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZkbtpeVPAJnz"
+1563696810663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563696810664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563696810664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563696813678	Marionette	INFO	Listening on port 34577
+1563696813756	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563696850257	Marionette	INFO	Stopped listening on port 34577
+[Parent 15315, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1563696886887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.82nBfzdukZdL"
+1563696887621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563696887621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563696887622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563696890450	Marionette	INFO	Listening on port 39819
+1563696890507	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15900): dconf-WARNING **: 13:15:41.126: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1563696942046	Marionette	INFO	Stopped listening on port 39819
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1563697005452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.swUgqKubIDV2"
+1563697006226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563697006226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563697006227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563697009469	Marionette	INFO	Listening on port 37841
+1563697009493	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563697046070	Marionette	INFO	Stopped listening on port 37841
+[Parent 16240, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1563697128533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WHoXwn4lLWJB"
+1563697129369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563697129369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563697129370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563697132808	Marionette	INFO	Listening on port 38267
+1563697132867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 749: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563697781663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vSkhpovnj8sB"
+1563697782492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563697782493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563697782493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563697786082	Marionette	INFO	Listening on port 44405
+1563697786179	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17615, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17615, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1563697806455	Marionette	INFO	Stopped listening on port 44405
+1563697807875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iafKTgpBUbO9"
+1563697808746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563697808746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563697808747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563697811865	Marionette	INFO	Listening on port 33953
+1563697811897	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17940, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 17940, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1563697824070	Marionette	INFO	Stopped listening on port 33953
+1563697844306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oKrhhsiAVAWO"
+1563697844979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563697844980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563697844981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563697847868	Marionette	INFO	Listening on port 42813
+1563697847917	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 18384, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1563697867710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aKUnTYCEGAoO"
+1563697868456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563697868457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563697868458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563697871432	Marionette	INFO	Listening on port 43825
+1563697871522	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1563697889631	Marionette	INFO	Stopped listening on port 43825
+1563701985561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tVoP69jgytYN"
+1563701986333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563701986333	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563701986334	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563701989267	Marionette	INFO	Listening on port 33643
+1563701989297	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530012,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1563702019047	Marionette	INFO	Stopped listening on port 33643
+1563702978258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u2NmUWlWIYj4"
+1563702978909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563702978909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563702978910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563702981564	Marionette	INFO	Listening on port 42197
+1563702981575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563702996197	Marionette	INFO	Stopped listening on port 42197
+[Parent 22128, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1563706239250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1YbhkLpP4f0h"
+1563706240034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563706240034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563706240035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563706243050	Marionette	INFO	Listening on port 37335
+1563706243077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563706260501	Marionette	INFO	Stopped listening on port 37335
+[Parent 27466, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16835, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 16835, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1563706298722	Marionette	INFO	Stopped listening on port 38267
+1563706654189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vjLmfER1N9IP"
+1563706654842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563706654843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563706654843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563706657472	Marionette	INFO	Listening on port 43973
+1563706657505	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1563706749602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VxtjL459cod6"
+1563706750462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563706750463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563706750463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563706754119	Marionette	INFO	Listening on port 44905
+1563706754171	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:28586): dconf-WARNING **: 15:59:35.528: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1563706842370	Marionette	INFO	Stopped listening on port 44905
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1563706855935	Marionette	INFO	Stopped listening on port 43973
+1563706884067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jQ5afZO93Dp3"
+1563706884754	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563706884755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563706884755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563706887164	Marionette	INFO	Listening on port 35189
+1563706887182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 749: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Child 29255, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 29255, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Child 29255, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1563707123281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qLtvT1ouMepo"
+1563707124533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563707124534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563707124534	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563707128384	Marionette	INFO	Listening on port 33087
+1563707128435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563707128457	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"58.216.202.149:8118","httpProxy":"58.216.202.149:8118","sslProxy":"58.216.202.149:8118"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 29894, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1563707217874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ugfjGpolVKoM"
+1563707219181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563707219184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563707219185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563707222742	Marionette	INFO	Listening on port 40075
+1563707222812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563707222834	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"186.89.242.145:8080","httpProxy":"186.89.242.145:8080","sslProxy":"186.89.242.145:8080"}
+[Parent 29117, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 30118, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1563707315132	Marionette	INFO	Stopped listening on port 35189
+1563707315137	Marionette	INFO	Stopped listening on port 40075
+1563707328635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Dn5jafqloqhH"
+1563707329384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563707329385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563707329385	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563707332427	Marionette	INFO	Listening on port 38895
+1563707332461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563707332482	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"186.89.242.145:8080","httpProxy":"186.89.242.145:8080","sslProxy":"186.89.242.145:8080"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1563707423693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gbs5OmLoPl3H"
+1563707424466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563707424467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563707424467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563707427368	Marionette	INFO	Listening on port 34863
+1563707427412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563707427425	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"186.89.242.145:8080","httpProxy":"186.89.242.145:8080","sslProxy":"186.89.242.145:8080"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 31173, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1563707494767	Marionette	INFO	Stopped listening on port 34863
+1563707534669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4vhbtJerqs1A"
+1563707535613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563707535613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563707535613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563707538097	Marionette	INFO	Listening on port 39209
+1563707538181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563707632485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YM4PhTd2FmKA"
+1563707633219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563707633219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563707633219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563707636151	Marionette	INFO	Listening on port 37105
+1563707636203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563707636225	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"186.89.242.145:8080","httpProxy":"186.89.242.145:8080","sslProxy":"186.89.242.145:8080"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 31817, Gecko_IOThread] WARNING: pipe error (152): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1563707690977	Marionette	INFO	Stopped listening on port 37105
+1563707772101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4ZiEk27B4zfh"
+1563707772765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563707772765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563707772765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563707775254	Marionette	INFO	Listening on port 34265
+1563707775312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563707775326	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"186.89.242.145:8080","httpProxy":"186.89.242.145:8080","sslProxy":"186.89.242.145:8080"}
+
+(/usr/lib/firefox/firefox:31626): dconf-WARNING **: 16:16:50.074: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://s0.2mdn.net/2007232/1563175360497/160x600.js?1560414766396, line 638: TypeError: this.replay_btn is undefined
+JavaScript error: https://s0.2mdn.net/2007232/1563175360497/160x600.js?1560414766396, line 638: TypeError: this.replay_btn is undefined
+[Parent 32175, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1563707917736	Marionette	INFO	Stopped listening on port 34265
+[Parent 31497, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 31497, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1563707917880	Marionette	INFO	Stopped listening on port 39209
+1563708010217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tN2gdC8QnT3Z"
+1563708010790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563708010791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563708010791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563708013205	Marionette	INFO	Listening on port 43669
+1563708013235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.iplocation.net/find-ip-address, line 369: SyntaxError: expected expression, got '.'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1563708044431	Marionette	INFO	Stopped listening on port 43669
+1563717250058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gCLN8xzgq7pY"
+1563717250913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563717250914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563717250914	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563717253884	Marionette	INFO	Listening on port 36469
+1563717253988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563717254010	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"51.38.80.159:80","httpProxy":"51.38.80.159:80","sslProxy":"51.38.80.159:80"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4849, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4765, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4747, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1563717413270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OaPmvoJqBUKa"
+1563717414157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563717414157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563717414157	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563717417371	Marionette	INFO	Listening on port 46313
+1563717417391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563717417411	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"92.2.46.88:8080","httpProxy":"92.2.46.88:8080","sslProxy":"92.2.46.88:8080"}
+[Parent 5151, Gecko_IOThread] WARNING: pipe error (139): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 5151, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1563717484865	Marionette	INFO	Stopped listening on port 46313
+1563717486870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7B6bGa16pNPe"
+1563717487730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563717487730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563717487731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563717490876	Marionette	INFO	Listening on port 35745
+1563717490931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563717490953	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"176.58.118.148:8080","httpProxy":"176.58.118.148:8080","sslProxy":"176.58.118.148:8080"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1753565665572970647/AdHelper.min.js, line 1: TypeError: this.dispatchEvent is not a function
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://a.teads.tv/media/format/v3/teads-format.min.js, line 1: NS_ERROR_UNEXPECTED: 
+1563718103808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ajBAhnpJpozL"
+1563718104729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563718104729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563718104729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563718108223	Marionette	INFO	Listening on port 41343
+1563718108252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563718108284	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"176.58.118.148:8080","httpProxy":"176.58.118.148:8080","sslProxy":"176.58.118.148:8080"}
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563667206065%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+[Parent 7151, Gecko_IOThread] WARNING: pipe error (139): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 5511, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 5511, Gecko_IOThread] WARNING: pipe error (208): Connection reset by peer: file /build/firefox-GfAqaH/firefox-67.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1563720929140	Marionette	INFO	Stopped listening on port 41343
+1563720929298	Marionette	INFO	Stopped listening on port 35745
