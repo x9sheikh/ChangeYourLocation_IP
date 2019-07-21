@@ -13,3 +13,4 @@ desired_capability['proxy'] = {
 queryURL = "https://www.truecaller.com/"
 browser = webdriver.Firefox(capabilities=desired_capability)
 browser.get(queryURL)
+print(browser.title)
